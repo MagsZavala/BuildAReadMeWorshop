@@ -39,4 +39,5 @@ Open a pull request.
 
 ##Walkthrough Video
 You can view a walkthrough video demonstrating the functionality of the application here.
+[Uploading Screen Recording 2024-07-14 at 4.23.17 PM.zip…]()
 
